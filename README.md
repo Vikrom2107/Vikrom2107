@@ -1,5 +1,5 @@
 ### Привет!
-Я - Романов Виктор, начинающий Java-разработчик.
+Я - **Романов Виктор**, начинающий Java-разработчик.
 В настоящее время занимаюсь углублённым изучением языка Java и фреймворка Spring.
 
 #### Основные навыки:
@@ -9,6 +9,8 @@
  - Основы Spring Boot
    
 #### Сертификаты от Нетологии
+ - Сертификат Java-разработка для начинающих - https://github.com/Vikrom2107/Vikrom2107/blob/main/certificate%20Java-developer.pdf
+ - Сертификат Основы SQL - https://github.com/Vikrom2107/Vikrom2107/blob/main/certificate%20SQL.pdf
 
 <!--
 **Vikrom2107/Vikrom2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
